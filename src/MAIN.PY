@@ -9,7 +9,7 @@ from src.llm_summary import generate_summary
 from src.llm_competitive import generate_competitive_analysis
 from src.export_word import export_word
 
-
+#(Replace "abc_pharma" with real name of company)
 def main():
     print("Searching PubMed...")
     pmids = search_pubmed(DRUG_CONFIG["pubmed_query"], DRUG_CONFIG["max_pubmed_results"])
