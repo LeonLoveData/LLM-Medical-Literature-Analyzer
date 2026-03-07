@@ -1,14 +1,30 @@
-REQUIRED_FIELDS = ["sample_size","study_design","phase","primary_endpoint","efficacy_results","safety_results"]
+REQUIRED_FIELDS = [
+    "sample_size",
+    "study_design",
+    "phase",
+    "primary_endpoint",
+    "efficacy_results",
+    "safety_results"
+]
 
-def validate_record(r):
-    if "error" in r:
+
+def validate_record(record):
+    """Validate that required fields exist and contain source_text."""
+    if "error" in record:
         return False
-    for f in REQUIRED_FIELDS:
-        if f not in r:
+
+    for field in REQUIRED_FIELDS:
+        if field not in record:
             return False
-        v = r[f]
-        if v is None:
+
+        value = record[field]
+        if value is None:
             continue
-        if "source_text" not in v:
+
+        if not isinstance(value, dict):
             return False
+
+        if "source_text" not in value:
+            return False
+
     return True
