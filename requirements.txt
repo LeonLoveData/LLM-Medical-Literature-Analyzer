@@ -2,10 +2,18 @@ os
 time
 json
 requests
+io
 collections
-pandas
+pandas as pd
+matplotlib
+matplotlib.use("Agg")
+matplotlib.pyplot
+matplotlib.patches
+numpy
 dotenv
 Bio
 docx
+docx.shared
+docx.enum.text
 langchain_core.prompts
 langchain_groq
