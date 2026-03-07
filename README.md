@@ -33,11 +33,7 @@ the competitive landscape is dynamic and rapidly evolving, with multiple competi
 ## Tech Stack
 Python
 
+## Outputs
+
 ![Clinical Phase Distribution](outputs/therapy_pipeline.png)
 
-
-
-outputs/
-    therapy pipeline.png
-    therapeutic modality landscape.png
-    RNA_Gene_Therapy_Portfolio_BD_READY_REPORT.docx
