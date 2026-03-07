@@ -33,7 +33,7 @@ the competitive landscape is dynamic and rapidly evolving, with multiple competi
 ## Tech Stack
 Python
 
-![Clinical Phase Distribution](outputs/therapy pipeline.png)
+![Clinical Phase Distribution](outputs/therapy_pipeline.png)
 
 
 
