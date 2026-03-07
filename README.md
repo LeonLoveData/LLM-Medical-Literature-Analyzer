@@ -36,4 +36,5 @@ Python
 ## Outputs
 
 ![Clinical Phase Distribution](outputs/therapy_pipeline.png)
+![modulity_landscape](outputs/therapeutic_modulity_landscape.png)
 
