@@ -1,5 +1,5 @@
 # LLM-Medical-Literature-Analyzer
-Leverage AI and Literature For Insights (Replace "abc_pharma" with real name of company)
+Leverage AI and Literature For Insights 
 
 ## Project Overview
 Gene & RNA Therapeutics Intelligence using LLM(LangChain) and NLP.
