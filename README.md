@@ -1,6 +1,5 @@
 # LLM-Medical-Literature-Analyzer
 Leverage AI and Literature For Insights
-# Hospital Readmission Prediction
 
 ## Project Overview
 Gene & RNA Therapeutics Intelligence using LLM(LangChain) and NLP.
