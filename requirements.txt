@@ -4,7 +4,7 @@ json
 requests
 io
 collections
-pandas as pd
+pandas
 matplotlib
 matplotlib.use("Agg")
 matplotlib.pyplot
