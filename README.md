@@ -33,6 +33,3 @@ the competitive landscape is dynamic and rapidly evolving, with multiple competi
 
 ## Tech Stack
 Python
-Scikit-learn
-XGBoost
-PowerBI
