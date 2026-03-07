@@ -7,7 +7,7 @@ Gene & RNA Therapeutics Intelligence using LLM(LangChain) and NLP.
 ## Dataset
 Pubmed
 
-## Problem
+## Questions to Be Answered
 1. What are the emerging scientific and technological trends in gene and RNA therapeutics across literature and patents?
 
 2. Which targets and diseases show the strongest evidence supporting gene or RNA therapeutic approaches?
