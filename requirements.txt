@@ -1,0 +1,11 @@
+os
+time
+json
+requests
+collections
+pandas
+dotenv
+Bio
+docx
+langchain_core.prompts
+langchain_groq
