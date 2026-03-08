@@ -4,7 +4,7 @@ Leverage AI and Literature For Insights
 ## Project Overview
 AI‑powered PubMed for BD, R&D, and Competitive Strategy
 This project builds an end‑to‑end intelligence pipeline that automatically retrieves, structures, analyzes, and visualizes scientific and patent evidence for gene therapy and RNA therapeutics. It is designed to support BD&L, competitive intelligence, R&D strategy, and due diligence workflows in pharma and biotech.
-The system integrates PubMed, Lens.org  patents, LLM‑based structured extraction, evidence summaries, competitive landscape analysis, and BD‑ready Word report generation—all in one automated workflow.
+The system integrates PubMed,LLM‑based structured extraction, evidence summaries, competitive landscape analysis, and BD‑ready Word report generation—all in one automated workflow.
 
 ## Dataset
 Pubmed
