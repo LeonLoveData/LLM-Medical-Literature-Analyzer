@@ -54,8 +54,11 @@ The included configuration demonstrates how the pipeline can answer strategic qu
 ## Project Structure
 
 ├── main.py                     # Main pipeline entry point
+
 ├── outputs/                    # Auto-generated charts, CSVs, and Word reports
+
 ├── requirements.txt            # Python dependencies
+
 └── README.md                   # Project documentation
 
 
